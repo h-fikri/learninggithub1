@@ -1,5 +1,4 @@
 Rencana konten wpu
-- js: ES6 dan framework
+- js: ES6 dan framework, tambah angular, tambah react
 - html
-- PHP Framework
-- Struktur Data Dasar
+- PHP Framework, tambah laravel

@@ -1,4 +1,4 @@
 Testing new file for github
 - This is testing for creating new file for github
-- this is addition on testing new file
 - This is another addition
+- This is deleting line 3, which is addition on testing new file.

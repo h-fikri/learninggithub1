@@ -1,0 +1,3 @@
+Rencana konten wpu
+- js: ES6 dan framework
+- html
